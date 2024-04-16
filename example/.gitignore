@@ -1,0 +1,10 @@
+*.asm
+tags
+*.o
+*.elf
+*.dump
+*.bin
+*.swp
+*.ycm_extra_conf.py
+*.info
+*.syms
